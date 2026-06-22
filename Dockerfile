@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1.24.0@sha256:87999aa3d42bdc6bea60565083ee17e86d1f3339802f543c0d03998580f9cb89
+# syntax=docker/dockerfile:1.25.0@sha256:0adf442eae370b6087e08edc7c50b552d80ddf261576f4ebd6421006b2461f12
 
 FROM python:3.13-slim-trixie@sha256:e544a7fcbdf8555eceda66bf86cafb006c736339f76141918bcb812f3174c00a AS builder
 
